@@ -1,0 +1,120 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import HeroText from '~/components/widgets/HeroText.astro';
+import ContactUs from '~/components/widgets/Contact.astro';
+import Features2 from '~/components/widgets/Features2.astro';
+import Content from '~/components/widgets/Content.astro';
+
+
+const metadata = {
+  title: 'Team',
+};
+---
+
+<Layout metadata={metadata}>
+    <!-- Content Widget **************** -->
+
+  <Content
+    isReversed
+    tagline="EKİBİMİZ"
+    title="Uzman Kadromuz İle Tanışın!"
+    items={[
+      {
+        title: 'Uzmanlık Alanlarında Derin Bilgi',
+        description:
+          'Müvekkillere ceza hukuku, aile hukuku ve ticaret hukuku başta olmak üzere çeşitli alanlarda etkin, güncel ve güvenilir hukuki çözümler sunulmaktadır.',
+      },
+      {
+        title: 'Etik ve Mesleki Sorumluluk',
+        description:
+          'Avukatlık mesleğinin temelini oluşturan etik kurallar ve gizlilik ilkesi doğrultusunda, her dosyada titizlikle ve sorumluluk bilinciyle hareket edilmektedir.',
+      },
+      {
+        title: 'Hak Arama Özgürlüğünün Teminatı',
+        description:
+          'Müvekkillerin adil yargılanma hakkı ve hukuki güvenceleri gözetilerek, yasal süreçlerin her aşamasında etkin temsil sağlanmaktadır.',
+      },
+    ]}
+    image={{
+      src: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+      alt: 'Colorful Image',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Av. Ömer Oral</h3>
+      Kurucu Avukat
+    </Fragment>
+
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    isAfterContent
+    items={[
+      {
+        title: 'Bireyselleştirilmiş Hukuki Danışmanlık',
+        description: `Her müvekkilin özel ihtiyaçlarına uygun, çözüm odaklı ve kişiselleştirilmiş hukuki danışmanlık hizmetleri sunulmaktadır.`,
+      },
+      {
+        title: 'Kadın Hakları ve Aile Hukukunda Duyarlı Yaklaşım',
+        description:
+          'Kadın hakları, boşanma, velayet ve nafaka gibi aile hukukuna dair hassas konularda duyarlı, çözüm odaklı ve müvekkil yararını gözeten bir hizmet anlayışı benimsenmektedir.',
+      },
+      {
+        title: 'Alternatif Uyuşmazlık Çözüm Yöntemleri',
+        description:
+          "Dava yoluna başvurmadan önce arabuluculuk ve uzlaşma gibi alternatif uyuşmazlık çözüm yolları değerlendirilerek, hızlı ve etkili sonuçlar elde edilmesi hedeflenir.",
+      },
+      {
+        title: 'Stratejik Dava ve Süreç Yönetimi',
+        description:
+          'Uyuşmazlıkların etkin şekilde yönetilmesi amacıyla, dava süreçlerinde stratejik planlama ve özenli takip ön planda tutulur.',
+      },
+    ]}
+    image={{
+      src: 'https://images.unsplash.com/photo-1600132806370-bf17e65e942f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2194&q=80',
+      alt: 'Blueprint Image',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Av. Rumeysa Tama Oral</h3>
+      Kurucu Avukat
+    </Fragment>
+
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    isReversed
+    isAfterContent
+    items={[
+      {
+        title: 'Miyav Miyav',
+        description:
+          '',
+      }
+    ]}
+    image={{
+      src: 'https://images.unsplash.com/photo-1611462985358-60d3498e0364?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+      alt: 'Astronauts Image',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Avucat Suzi</h3>
+      Kurucu Kedi
+    </Fragment>
+
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+</Layout>
