@@ -8,7 +8,7 @@ export const headerData = {
     },
     {
         text: 'Hakkımızda',
-        href: getPermalink('/about'),
+        href: getPermalink('/hakkimizda'),
       // links: [
       //   // {
       //   //   text: 'Features (Anchor Link)',
@@ -42,7 +42,7 @@ export const headerData = {
     },
     {
         text: 'Ekibimiz',
-        href: getPermalink('/team'),
+        href: getPermalink('/ekibimiz'),
     },
     // {
     //   text: 'Landing',
@@ -101,7 +101,7 @@ export const headerData = {
     },
     {
       text: 'İletişim',
-      href: getPermalink('/contact')
+      href: getPermalink('/iletisim')
     },
   ],
   //actions: [{ text: 'Download', href: 'https://github.com/arthelokyo/astrowind', target: '_blank' }],
@@ -159,7 +159,7 @@ export const footerData = {
     {
       title: 'Kurumsal',
       links: [
-        { text: 'Hakkımızda', href: getPermalink('/about') },
+        { text: 'Hakkımızda', href: getPermalink('/hakkimizda') },
         { text: 'Yayınlarımız', href: getBlogPermalink() },
         // { text: 'Careers', href: '#' },
         // { text: 'Press', href: '#' },
