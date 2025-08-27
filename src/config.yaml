@@ -18,14 +18,10 @@ metadata:
   openGraph:
     site_name: TAMA & ORAL
     images:
-      - url: '~/assets/images/default.png'
+      - url: '~/assets/images/buro-foto.png'
         width: 1200
         height: 628
     type: website
-  twitter:
-    handle: '@arthelokyo'
-    site: '@arthelokyo'
-    cardType: summary_large_image
 
 i18n:
   language: en
