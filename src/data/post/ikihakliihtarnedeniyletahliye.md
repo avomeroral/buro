@@ -1,5 +1,5 @@
 ---
-publishDate: 2025-09-06T00:00:00Z
+publishDate: 2025-09-05T00:00:00Z
 author: Ömer Oral
 title: "Kiralananın İki Haklı İhtar Nedeniyle Tahliyesi ve Yıllık Kira Bedeline Göre İstinaf ve Temyiz Sınırları"
 excerpt: ""

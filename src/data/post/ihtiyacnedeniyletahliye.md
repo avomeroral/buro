@@ -1,5 +1,5 @@
 ---
-publishDate: 2025-09-05T00:00:00Z
+publishDate: 2025-09-04T00:00:00Z
 author: Ömer Oral
 title: "İhtiyaç Nedeniyle Tahliye Davası: Hukuki Dayanaklar, Şartlar ve Uygulama"
 excerpt: ""
