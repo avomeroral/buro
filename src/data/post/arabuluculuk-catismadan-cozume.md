@@ -4,7 +4,6 @@ author: Ömer Oral
 title: "Arabuluculuk: Çatışmadan Çözüme"
 excerpt: ""
 category: Arabuluculuk
-image: ""
 tags:
   - arabuluculuk
 ---

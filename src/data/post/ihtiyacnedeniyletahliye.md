@@ -4,7 +4,6 @@ author: Ömer Oral
 title: "İhtiyaç Nedeniyle Tahliye Davası: Hukuki Dayanaklar, Şartlar ve Uygulama"
 excerpt: ""
 category: Kira uyuşmazlıkları
-image: ""
 tags:
   - Kira uyuşmazlıkları
 ---
