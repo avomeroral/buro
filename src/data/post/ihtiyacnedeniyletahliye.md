@@ -1,5 +1,5 @@
 ---
-publishDate: 2025-09-06T00:00:00Z
+publishDate: 2025-09-05T00:00:00Z
 author: Ömer Oral
 title: "İhtiyaç Nedeniyle Tahliye Davası: Hukuki Dayanaklar, Şartlar ve Uygulama"
 excerpt: ""
@@ -7,7 +7,6 @@ category: Kira Hukuku
 tags:
   - Kira Hukuku
 ---
-
 
 ## 1. Giriş
 İhtiyaç nedeniyle tahliye davası, 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 350. ve 351. maddelerinde düzenlenen ve konut ya da işyeri kiralarında kiraya verenin—kendisi veya yakınlarının—gerçek, samimi, zorunlu bir ihtiyacına dayalı olarak kiracının tahliyesini talep etmesine olanak tanıyan özel bir dava türüdür. Bu makalede, hukuki altyapı, süresel şartlar, ispat yükü, istinaf ve temyiz aşamaları ile uygulamadaki önemli noktalar başlıklar halinde detaylandırılmıştır.
@@ -44,10 +43,7 @@ tags:
 - Arabuluculuk 2023’ten itibaren zorunlu hale gelmiştir.  
 - Usule uygun sürelerde başvuru yapılmazsa dava usulden reddedilebilir.  
 
-## 8. Sonuç
-İhtiyaç nedeniyle tahliye davaları, TBK’da açıkça düzenlenmiş ve uygulamada sıkça karşılaşılan bir tahliye sebebidir. Davanın kabulü, ihtiyacın gerçek, samimi ve zorunlu olması ile süre ve usul şartlarının eksiksiz yerine getirilmesine bağlıdır.
-
-## 9. İstinaf ve Temyiz Aşamaları
+## 8. İstinaf ve Temyiz Aşamaları
 
 ### a) Yıllık Kira Bedelinin Önemi
 Tahliye davalarında uyuşmazlık değeri, kiralananın yıllık kira bedelidir. İstinaf ve temyiz yollarının açık olup olmadığı bu bedel üzerinden değerlendirilir.
@@ -64,6 +60,9 @@ Tahliye davalarında uyuşmazlık değeri, kiralananın yıllık kira bedelidir.
 
 ### e) Yargılamaya Etkisi
 Sınırların gözetilmemesi halinde istinaf veya temyiz başvurusu usulden reddedilebilir. Bu nedenle dava öncesinde yıllık kira bedelinin doğru belirlenmesi kritik önemdedir.
+
+## 9. Sonuç
+İhtiyaç nedeniyle tahliye davaları, TBK’da açıkça düzenlenmiş ve uygulamada sıkça karşılaşılan bir tahliye sebebidir. Davanın kabulü, ihtiyacın gerçek, samimi ve zorunlu olması ile süre ve usul şartlarının eksiksiz yerine getirilmesine bağlıdır. Ayrıca yıllık kira bedeline göre istinaf ve temyiz yollarının açık olup olmadığı hususu, davanın seyrini ve tarafların hak arama özgürlüğünü doğrudan etkilemektedir. Bu nedenle dava sürecinde yalnızca ihtiyaç koşullarının değil, kanun yollarının da dikkatle değerlendirilmesi gerekir.
 
 ---
 
