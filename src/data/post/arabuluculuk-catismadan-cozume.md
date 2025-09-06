@@ -29,3 +29,5 @@ TAMA & ORAL Avukatlık ve Arabuluculuk Bürosu, internet sitesinde yer alan bilg
 Her hukuki uyuşmazlık, kendine özgü koşullar barındırdığından, bu sitede yer alan bilgiler yalnızca genel bir çerçeve sunmakta olup, somut olaylarda mutlaka bir avukata danışılması gerekmektedir.
 
 Bu site ve içeriği, TAMA & ORAL Avukatlık ve Arabuluculuk Bürosu tarafından profesyonel hukuki danışmanlık hizmeti sunulması anlamına gelmez; yalnızca ziyaretçilere bilgi amaçlı içerikler sağlamaktadır.
+
+ekleme.
