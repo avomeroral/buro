@@ -10,8 +10,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 ### **İletişim ve Veri Sorumlusu Bilgileri**
 
 **Veri Sorumlusu**: TAMA & ORAL Avukatlık ve Arabuluculuk Bürosu  
-**Adres**: Çınar Mah. Yıldırım Beyazıt Cad. No.: 15 Ecem Apt. K.:1 D.:7 Bornova/İzmir  
-**Telefon**: 0232 461 09 94 – 0537 937 10 64  
+**Adres**: Mansuroğlu Mah. 286/1 Sok. No:16 Ata Plaza K:7 D:28 Bayraklı İzmir  
+**Telefon**: 0232 486 63 01 – 0537 937 10 64  
 **Veri işlemeye ilişkin talepler**: [kvkk@tamaoral.av.tr](mailto:kvkk@tamaoral.av.tr)
 
 ---
